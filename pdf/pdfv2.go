@@ -3,7 +3,7 @@ package pdf
 import (
 	"io"
 
-	"github.com/94peter/export/pdf/style"
+	"github.com/muulinCorp/export/pdf/style"
 	"github.com/signintech/gopdf"
 )
 

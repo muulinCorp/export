@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/94peter/export/pdf/style"
+	"github.com/muulinCorp/export/pdf/style"
 
 	"github.com/golang/freetype/truetype"
 	"github.com/wcharczuk/go-chart"

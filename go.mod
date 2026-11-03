@@ -1,4 +1,4 @@
-module github.com/94peter/export
+module github.com/muulinCorp/export
 
 go 1.21.7
 
